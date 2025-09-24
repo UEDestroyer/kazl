@@ -1,0 +1,3 @@
+/mnt/500GB/kazl/cmake-build-debug/CMakeFiles/kazl.dir
+/mnt/500GB/kazl/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/500GB/kazl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
